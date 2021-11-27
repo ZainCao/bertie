@@ -1,2 +1,3 @@
 # bertie
 ErlangProgramming Test
+ok.
